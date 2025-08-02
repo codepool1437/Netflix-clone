@@ -15,7 +15,7 @@ A static clone of the Netflix India homepage, built with HTML and CSS to replica
 - Netflix-inspired landing page layout and UI
 - Styled with pure CSS
 - Static sections with media, FAQs, and footer
-- Desktop layout only (non-responsive)
+- Responsive layout
 
 ---
 
